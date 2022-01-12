@@ -38,11 +38,11 @@ Example 2:`calc density.cub * 2 result.cub`
 ## integrate-cube
 Calculates the charge displacement function from the difference electron density cube file by numerical integration according to: 
 
-![cdf](https://github.com/Manuel-Schmitt/charge-displacement-function/tree/main/pictures/cdf.png)
+![cdf](/cdf.png)
 
 An output of the following integral is also generated:
 
-![integral](https://github.com/Manuel-Schmitt/charge-displacement-function/tree/main/pictures/integral.png)
+![integral](/pictures/integral.png)
 
 Usage: `integrate-cube <input.cub>` 
 
