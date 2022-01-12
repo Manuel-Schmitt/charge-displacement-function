@@ -31,9 +31,9 @@ Allows simple arithmetic between the data points of two cube files at the same p
 
 Usage: `calc <input1.cub> <+,-,*,/> <input2.cub> <output.cub>`
 
-Examples: `calc density1.cub + density2.cub result.cub`
+Example 1: `calc density1.cub + density2.cub result.cub`
 
-	`calc density.cub * 2 result.cub`
+Example 2:`calc density.cub * 2 result.cub`
 
 ## integrate-cube
 Calculates the charge displacement function from the difference electron density cube file by numerical integration according to: 
