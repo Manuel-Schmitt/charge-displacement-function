@@ -1,5 +1,5 @@
 # Charge Displacement Function
-Small Fortran programs for the generation of a charge displacement function from gaussian cube files
+Small Fortran programs for the generation of a charge displacement function from gaussian cube files to analyze a chemical bond.
 
 ## Workflow to generate the charge displacement function
 1. Perform a geometry optimization of your molecule with a quantum chemistry software of your chose. 
