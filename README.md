@@ -49,7 +49,7 @@ Usage: `integrate-cube <input.cub>`
 ## find-fragment-intersection
 Determines the isodensity boundary on the z-axis between two separated fragments.
 
-Usage: find-fragment-intersection <total-density-fragment1.cub> <total-density-fragment2.cub>
+Usage: `find-fragment-intersection <total-density-fragment1.cub> <total-density-fragment2.cub>`
 
 ## read-function-at
 Determines the value of the charge displacement function, generated with ` integrate-cube` at the given point on the z-axis. 
